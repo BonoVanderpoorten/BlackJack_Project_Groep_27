@@ -1,0 +1,22 @@
+Resultaat na 1000000 gesimuleerde rondes met volgende parameters: 
+Aantal decks: 8
+Uitbetaling bij blackjack: 1.5
+Bank checkt voor blackjack: nee
+Opgeven mag: ja
+Dealer hit op zachte 17: nee
+Dubbelen na splitten mag: ja
+Hersplitten mag: ja
+
+Totaal blackjacks: 45417
+Totaal wins: 338414
+Totaal doubled wins: 48150
+Totaal busts: 137102
+Totaal doubled busts: 0
+Totaal losses: 283337
+Totaal doubled losses: 33246
+Totaal ties: 78768
+Totaal doubled ties: 6407
+Totaal surrenders: 58750
+Gewonnen geld: 4978480
+Verloren geld: 5113145
+Winst in %: -2,634
